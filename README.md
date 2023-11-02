@@ -1,4 +1,4 @@
-# Project Name
+# Simple todo app
 
 Simple API with Java, Spring Boot, Maven, Flyway, and SQL
 
@@ -23,11 +23,4 @@ This project is a simple API developed with Java and the technologies Spring Boo
 - Java Development Kit (JDK)
 - Maven
 - An SQL database server (e.g., MySQL, PostgreSQL, H2, etc.)
-
-## Installation
-
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/your-project.git
 
