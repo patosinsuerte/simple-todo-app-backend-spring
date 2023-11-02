@@ -79,9 +79,9 @@
 				<groupId>org.flywaydb</groupId>
 				<artifactId>flyway-maven-plugin</artifactId>
 				<configuration>
-					<url>jdbc:mysql://localhost:3306/api_todo_list</url>
+					<url>jdbc:mysql://localhost:3306/your db</url>
 					<user>root</user>
-					<password>Px9423100_SQL</password>
+					<password>your password</password>
 				</configuration>
 			</plugin>
 		</plugins>
